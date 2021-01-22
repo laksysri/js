@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2></h2> 
+
+<h2></h2>
+
+<p></p>
+
+<p id="demo"></p>
+
+<script>
+
+ 
+
+var fruits = ["Banana", "Orange", "Apple", "Mango", "cherry"];
+document.getElementById("demo").innerHTML =  fruits[3] ;
+
+</script>
+
+</body>
+</html>
+
+
